@@ -91,7 +91,7 @@ Detailed description about who I am and the projects that I have worked on throu
 
             1. Spring Boot:
                * All of our major programs use [Spring Boot](https://spring.io/projects/spring-boot) so I have been learning a lot about the extension and how to use it. Spring boot has made building and running applications very simple which has been great for what we have needed at the office. Spring Boot provides a lot of services but the one that we use most is their REST services. [Building Rest Services with Spring](https://spring.io/guides/tutorials/rest/) was a great resource to learn more about Spring Rest Services. I mainly worked with the annotation @RestController which pretty much ensures that every request handling method returns Http Responses. 
-            1. Gmail Api:
+            2. Gmail Api:
                 * I also learned a lot about working with gmail's [api services](https://developers.google.com/gmail/api). [users.messages.get](https://developers.google.com/gmail/api/reference/rest/v1/users.messages/get) and [Gmail API](https://developers.google.com/resources/api-libraries/documentation/gmail/v1/java/latest/) were two very helpful resources in learning about how to retrieve specific messages and attachments from gmail. 
                 * Gmail quickstart:
                   * Something that took a while for me to figure out was how to get started with working with gmail's api. This [Java Quickstart](https://developers.google.com/gmail/api/quickstart/java) link helped me get everything started becuase it provides a simple and generic 3 step proccess to build an run a sample Java command-line application that makes requests to the Gmail API. Here is what I learned and what I think will be useful for any future application that would require requests to the Gmail API:
@@ -110,7 +110,9 @@ Detailed description about who I am and the projects that I have worked on throu
                         // Create list of messages
                          List<Message> messages = response.getMessages();
                         ```
-            2. Working with dates in Java:
+            3. Working with dates in Java:
                 * Working with dates can be a pain in the programming world which is why I constantly found myself referring to W3Schools [Java Date and Time](https://www.w3schools.com/java/java_date.asp) page. Although working with dates in this project was annoying I do feel like I learned a lot about how to use them. I mainly worked with Java LocalDates, Dates, SimpleDateTimeFormatters, and DateTimeFormatters. 
+
+            Link to Overview video [What I learned from one project at work (java)](https://youtu.be/VvIwkahLUR4)
 
 
