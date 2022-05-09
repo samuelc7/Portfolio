@@ -6,15 +6,9 @@ Detailed description about who I am and the projects that I have worked on throu
 
 # Relevant Job Timeline / Projects
   * ## May, 2021 - Hired by BYU-I Support Center as a *Reports and Systems Developer*:
-    *  ### Major Projects while working with BYU-I Support Center:
-       *  June, 2021 - CleanUp project for individual cisco phones
-          *  ToDo: Add details
-       *  August, 2021 - Fix duplicate tickets created and tracking data for agents outside the BSC (Live Chats)
-          *  ToDo: Add details
-       *  August, 2021 - Integrate Walk-in individual data into the dailydata program
-          *  ToDo: Add details
+    *  ### Sample Project while working with BYU-I Support Center: 
        *  October, 2021 - Reengineer CleanUp project for indivdual cisco phones:
-          * ### Background / Overview :
+          * ### Background / Overview:
             At the BSC (BYU-I Support Center) we have a calls center where agents recieve phone calls from students at the university that need help. Our Job as part of the Business Solutions team in the BSC is to help keep track of all the calls we recieve so that we can see how we (The BSC) are doing in helping out all the students that call in. Some things that we track is the amount of phone calls each agent recieves, the amount of calls agents pick up, the length of each call and more all throughout each agent's shift. We use reports sent to us from [cisco](https://www.cisco.com) to get all of the data wanted for each agent which then we report in [TeamDynamix](https://www.teamdynamix.com).
             
             A Major Program which was used to retrieve and report all of the data of each call broke due to changes in excel formatting - we were getting incorrect data from excel when parsing each sheet to get the cell values.
@@ -112,7 +106,11 @@ Detailed description about who I am and the projects that I have worked on throu
                         ```
             3. Working with dates in Java:
                 * Working with dates can be a pain in the programming world which is why I constantly found myself referring to W3Schools [Java Date and Time](https://www.w3schools.com/java/java_date.asp) page. Although working with dates in this project was annoying I do feel like I learned a lot about how to use them. I mainly worked with Java LocalDates, Dates, SimpleDateTimeFormatters, and DateTimeFormatters. 
-
-            Link to Overview video [What I learned from one project at work (java)](https://youtu.be/VvIwkahLUR4)
-
+  * ## December 2021 - Hired By [Westerwood Global](https://westerwoodglobal.com/usa/?sr=1) as a *Mantinence Technician
+    * ### Sample Project while working with BYU-I Support Center: 
+      * Feburary, 2022 - Simple Web Page for daily tasks
+        * ### Project Summary:
+          * When working as a mantinence technician we would have daily morning tasks which had a lot of manual steps that I thought could be automated.
+          * We would be given a list of machines/tools that had been worked on the day before which we would then manually look up where each one was located using an excel sheet. It was pretty tedious and took time to locate each and every machine. 
+          * I took initiative and created a simple web page that had a text box where we could copy and past all of the machine/tool numbers in. I stored all of the machines and their locations in a map which the program would use to look up each of the entries inputed in the text box. The program outputed all of the locations of the machines grouped by bay area which saved us hours each week from having to manually find each machine location one at a time. 
 
