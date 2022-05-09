@@ -106,7 +106,7 @@ Detailed description about who I am and the projects that I have worked on throu
                         ```
             3. Working with dates in Java:
                 * Working with dates can be a pain in the programming world which is why I constantly found myself referring to W3Schools [Java Date and Time](https://www.w3schools.com/java/java_date.asp) page. Although working with dates in this project was annoying I do feel like I learned a lot about how to use them. I mainly worked with Java LocalDates, Dates, SimpleDateTimeFormatters, and DateTimeFormatters. 
-  * ## December 2021 - Hired By [Westerwood Global](https://westerwoodglobal.com/usa/?sr=1) as a *Mantinence Technician
+  * ## December 2021 - Hired By [Westerwood Global](https://westerwoodglobal.com/usa/?sr=1) as a *Mantinence Technician*
     * ### Sample Project while working with BYU-I Support Center: 
       * Feburary, 2022 - Simple Web Page for daily tasks
         * ### Project Summary:
